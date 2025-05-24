@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Bryant Park Movie Nights 2025//EN
+BEGIN:VEVENT
+UID:20250609T200000Z-prettyinpink@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Pretty in Pink
+DTSTART:20250609T200000
+DTEND:20250609T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:An outcast girl navigates romance and social divides in 1980s Chicago. Starring Molly Ringwald, directed by Howard Deutch.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250616T200000Z-thewood@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:The Wood
+DTSTART:20250616T200000
+DTEND:20250616T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:Three old friends reminisce about their childhood on the day of a wedding. Starring Omar Epps, Taye Diggs, and Richard T. Jones.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250623T200000Z-kinkyboots@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Kinky Boots
+DTSTART:20250623T200000
+DTEND:20250623T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A shoe factory owner teams up with a drag performer to save his business. Starring Joel Edgerton and Chiwetel Ejiofor.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250630T200000Z-standbyme@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Stand by Me
+DTSTART:20250630T200000
+DTEND:20250630T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A group of boys go on a journey to find a missing body, discovering themselves along the way. Directed by Rob Reiner.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250707T200000Z-goodwillhunting@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Good Will Hunting
+DTSTART:20250707T200000
+DTEND:20250707T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A janitor with genius IQ gets help from a therapist to confront his potential. Starring Matt Damon and Robin Williams.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250714T200000Z-interstellar@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Interstellar
+DTSTART:20250714T200000
+DTEND:20250714T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A space pilot embarks on a mission to save humanity by finding a new home. Directed by Christopher Nolan.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250721T200000Z-ghost@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Ghost
+DTSTART:20250721T200000
+DTEND:20250721T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A murdered man tries to warn and protect his partner from beyond the grave. Starring Patrick Swayze and Demi Moore.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250728T200000Z-pulpfiction@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Pulp Fiction
+DTSTART:20250728T200000
+DTEND:20250728T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:Multiple crime stories intertwine in Tarantino's cult classic. Starring John Travolta and Samuel L. Jackson.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250804T200000Z-bladesofglory@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:Blades of Glory
+DTSTART:20250804T200000
+DTEND:20250804T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:Disgraced figure skaters join forces to compete as a pair. Starring Will Ferrell and Jon Heder.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:20250811T200000Z-thegodfather@bryantpark.org
+DTSTAMP:20250524T000000Z
+SUMMARY:The Godfather
+DTSTART:20250811T200000
+DTEND:20250811T220000
+LOCATION:Bryant Park, New York, NY
+DESCRIPTION:A young man gets pulled into his family's mafia legacy. Starring Marlon Brando and Al Pacino.
+URL:https://bryantpark.org/activities/movie-nights
+END:VEVENT
+END:VCALENDAR
